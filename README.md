@@ -1,5 +1,5 @@
 # Diagnostic analytics to address missed GP appointments for NHS England
-
+I submitted this project for the final assignment of the six-week Data Analytics using Python course in the LSE Data Analytics Career Accelerator programme.
 
 ## Files
 [Project Overview](https://chrisdbuck.github.io/DA-course-2-project/overview.html)
